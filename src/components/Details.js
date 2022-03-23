@@ -21,7 +21,7 @@ const Details = () => {
         setDetail(newDetail);
       });
     });
-  }, []);
+  }, [id]);
   return (
     <div>
       <Container sx={{ mt: 2 }}>

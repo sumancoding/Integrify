@@ -18,7 +18,6 @@ const Home = () => {
   return (
     <>
       <div>
-        {" "}
         <Container>
           <Typography variant="h4" sx={{ p: 1, textDecoration: "underline" }}>
             Home Page
